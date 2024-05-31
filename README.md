@@ -42,4 +42,4 @@ You will need a web browser (e.g., Chrome, Firefox, Safari) to run the applicati
 
 ## Screenshots
 g
-![To-Do List Screenshot](https://github.com/sajidhussaint/CodeAlpha_TODO_LIST/blob/main/todolists.png)
+![To-Do List Screenshot](https://github.com/sajidhussaint/CodeAlpha_TODO_LIST/blob/main/todo.png)
